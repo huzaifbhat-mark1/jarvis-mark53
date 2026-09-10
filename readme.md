@@ -201,7 +201,6 @@ It is held in memory only, deliberately: writing it to disk would make a fresh l
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-LIII.git
 cd Mark-LIII
 python setup.py        # installs deps for YOUR OS + the browser automation engine
 python main.py
@@ -286,8 +285,3 @@ Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licens
 
 Engineered by a developer building a real-world JARVIS-style assistant.
 ⭐ **Star the repository to support the journey to Mark 100.**
-
-| Platform | Link |
-| --- | --- |
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
